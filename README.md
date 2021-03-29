@@ -4,7 +4,7 @@
 
 **2. MARCO TEÓRICO**
 
-![MAQUINAS](https://github.com/Katherine01-Arevalo/Sistema-Trifasicos/blob/main/img/1trifasicas.PNG]
+![MAQUINAS](https://github.com/Katherine01-Arevalo/Sistema-Trifasicos/blob/main/img/1trifasicas.PNG)
 
 **3.DIAGRAMAS**
 
