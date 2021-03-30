@@ -50,6 +50,7 @@ Ejercicio Resuelto
 Al hablar de sistemas trifásicos se  tiene presente lo que es un generador ,descrito previamente se sabe que es una máquina que trasforma la energía  mecánica en eléctrica, entre las ventajas que un sistema trifásico de un  monofásico es que tiene menos sección transversal de cobre para conducir corriente , tiene potencia constante suministrada a la carga y el campo magnético rotatorio es constante. Estos generadores se clasifican en deltas  y Y cada uno tiene su respectivo análisis respecto a su voltaje y corriente .
 
 Los  circuitos trifásicos desbalanceados se  pueden conectar de varias  formas como: Y-Y a  con  neutro  ideal, Y-Y sin  neutro, Y-Y con neutro con impedancia, ∆-∆ y la combinación de ∆-Y y  las  secuencias  de  las  corrientes  y los voltajes no necesariamente coincide.
+
 Las potencias de las faces individuales de un sistema balanceado van a tener el mismo valor, por lo cual la potencia total del sistema será la suma de las tres o la multiplicación de cualquiera de ellas por 3. Para medir la potencia el wattímetro posee dos tipos de bobinas, una la cual se valorara la corriente y en la otra el voltaje. O también se puede emplear los métodos de 3 y 2 wattímetros, los cuales pueden medir cargas balanceadas y desbalanceadas.  
 
 **7.BIBLIOGRAFÍAS**
