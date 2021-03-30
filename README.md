@@ -44,6 +44,7 @@ Dependiendo de la disposición tanto de la fuente como de la carga los valores d
 Ejercicio Resuelto 
 
 ![aportacion](https://github.com/Katherine01-Arevalo/Sistema-Trifasicos/blob/main/img/aportaciones.PNG)
+
 **6.CONCLUSIONES**
 
 Al hablar de sistemas trifásicos se  tiene presente lo que es un generador ,descrito previamente se sabe que es una máquina que trasforma la energía  mecánica en eléctrica, entre las ventajas que un sistema trifásico de un  monofásico es que tiene menos sección transversal de cobre para conducir corriente , tiene potencia constante suministrada a la carga y el campo magnético rotatorio es constante. Estos generadores se clasifican en deltas  y Y cada uno tiene su respectivo análisis respecto a su voltaje y corriente 
