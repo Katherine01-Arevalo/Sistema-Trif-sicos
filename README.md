@@ -18,7 +18,7 @@ Específicos:
 
 ![MAQUINAS](https://github.com/Katherine01-Arevalo/Sistema-Trifasicos/blob/main/img/1trifasicas.PNG)
 
-![.]
+![.](https://github.com/Katherine01-Arevalo/Sistema-Trifasicos/blob/main/img/Mapa_An%C3%A1lisis_Trifasicos.jpg)
 
 ![teoria](https://github.com/Katherine01-Arevalo/Sistema-Trifasicos/blob/main/img/teoria.png)
 
